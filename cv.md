@@ -22,8 +22,10 @@ almost B2 level.
 
 University:
 * Saratov State University after N.G. Chernyshevsky (SSU)
+
 Faculty: 
 * Computer science and informatic technologies
+
 Specialty: 
 * Teacher Education: informatics profile
 
