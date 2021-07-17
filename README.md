@@ -1,1 +1,1 @@
-https://solpio.github.io/rsschool-cv/cv
+https://solpio.github.io/rsschool-cv/cv  https://solpio.github.io/rsschool-cv/index.html
